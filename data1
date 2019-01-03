@@ -105,4 +105,8 @@ blk_len: 255
 HOST: 27.111.32.10:8090
 
 û   {"fk_info":{"firmware":"ZFKL101HS100 V2.69 MG BS2A","firmware_filename":"zfkl101hs100_mg_bs2a_um","fk_bin_data_lib":"FKDataHS101","fp_data_ver":128,"supported_enroll_data":["PASSWORD","IDCARD","FP"]},"fk_name":"fk_device","fk_time":"20190103130159"}
- 
+ > Client closed conection.
+> New Client: 103.78.36.186
+> Server closed Client conection.
+> Server stopped
+> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
